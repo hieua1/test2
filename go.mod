@@ -1,4 +1,4 @@
-module github.com/hieua1/test
+module github.com/hieua1/test2
 
 go 1.14
 
